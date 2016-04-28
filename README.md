@@ -1,0 +1,1 @@
+# php-yamoney-card-synonim
