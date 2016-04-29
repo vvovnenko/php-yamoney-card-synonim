@@ -1,6 +1,7 @@
 {
   "name": "vvovnenko/php-yamoney-card-synonym",
   "description": "Yandex.Money card synonym",
+  "keywords": ["Yandex.Money", "Card synonym"],
   "license": "BSD-3-Clause",
   "authors": [
     {
